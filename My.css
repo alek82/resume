@@ -1,0 +1,60 @@
+body {
+    background-image: url(OO/background.png);
+    background-repeat: repeat;
+}
+
+h1 {
+    color: white;
+    border-style: solid;
+    margin: auto;
+    border: 1px solid red;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: blue;
+}
+
+.leftimg {
+    float:left;
+    margin: 7px, 7px, 7px 0;
+}
+
+#sh {
+    color: blue;
+    text-align: right;
+}
+
+.div {
+    margin: 60px;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+}
+
+p {
+    color: black;
+    font: 15px, bold;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#dost {
+    color: darkblue;
+    font: italic normal bold 15px Arial, sans-serif; a}
+
+#bor {
+    border: 2px solid blue;
+    padding: 5px;
+}
+
+#ul1 {
+    list-style: none;
+}
+
+#li1:before {
+    content:  "—";
+    position: relative;
+    left:     -5px;
+}
